@@ -42,7 +42,7 @@ La metodología seguida para realizar el proyecto es la siguiente:
 
 ## Conclusiones
 
-De los 3 modelos seleccionados finalmente se ha trabajado con 2, el ExtraTreeRegressor y el RandomForestRegressor, incidiéndo finalmente en el primero ya que fue el que mejores predicciones nos estaba dando. Los resutados los puedes consultar en los jupyter notebboks.
+De los 3 modelos seleccionados finalmente se ha trabajado con 2, el ExtraTreeRegressor y el RandomForestRegressor, incidiéndo finalmente en el primero ya que fue el que mejores predicciones nos estaba dando. Los resutados los puedes consultar en los jupyter notebooks.
 
 ## Enlaces de interés
 
