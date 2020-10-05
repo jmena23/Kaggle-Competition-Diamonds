@@ -22,7 +22,7 @@ La metodología seguida para realizar el proyecto es la siguiente:
 
 - Testeo con el o los modelos seleccionados.
 
-- Obtención de una predicción ajustada a los valores relaes.
+- Obtención de una predicción ajustada a los valores reales.
 
 - Subida de los resultados a la competición en Kaggle.
 
